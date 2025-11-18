@@ -1,5 +1,5 @@
 # Udemy Online Courses – Power BI Dashboard
-![Overview Dashboard](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(3).png)
+![Overview Dashboard](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(4).png)
 ## Project Overview
 This project presents an interactive Power BI dashboard that analyzes Udemy course data including subscribers, price, lectures, subject categories, and yearly course trends.
 
@@ -50,7 +50,7 @@ It includes:
 - Number of new courses peaked around 2016.
 
 ## Dashboards
-![Overview Dashboard](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(4).png)
+![Overview Dashboard](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(3).png)
 ![Price Analysis Dashboard](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(5).png)
 ![Course Details Page](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(7).png)
 
