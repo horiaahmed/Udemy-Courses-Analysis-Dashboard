@@ -1,5 +1,5 @@
 # Udemy Online Courses – Power BI Dashboard
-![Overview Dashboard](2025-11-16 (3).png)
+![Overview Dashboard](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(3).png)
 ## Project Overview
 This project presents an interactive Power BI dashboard that analyzes Udemy course data including subscribers, price, lectures, subject categories, and yearly course trends.
 
@@ -32,7 +32,7 @@ It includes:
 ## Tools Used
 - Power BI Desktop  
 - Data Transformation using Power Query 
-- DAX  
+- DAX Measures 
 
 ## Dataset Columns
 - course_title  
@@ -49,10 +49,10 @@ It includes:
 - Average price ranges between $50 and $100.
 - Number of new courses peaked around 2016.
 
-## Screenshots
-![Overview Dashboard] (2025-11-16 (4).png)
-![Price Analysis Dashboard] (2025-11-16 (5).png)
-![Course Details Page](2025-11-16 (7).png)
+## Dashboards
+![Overview Dashboard](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(4).png)
+![Price Analysis Dashboard](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(5).png)
+![Course Details Page](https://github.com/horiaahmed/Udemy-Courses-Analysis-Dashboard/blob/main/2025-11-16%20(7).png)
 
 
 ## Author
